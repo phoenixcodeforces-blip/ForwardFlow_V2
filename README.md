@@ -1,4 +1,4 @@
-# CNCF Issue Tracker Bot
+# CNCF Issue Tracker Bot (DOCS)
 
 A Telegram bot that monitors CNCF and open source repositories for new issues and sends clean, formatted notifications.
 
