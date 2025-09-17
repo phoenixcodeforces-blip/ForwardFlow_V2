@@ -17,12 +17,12 @@ REPOSITORIES = [
 "fluxcd/website",
 "istio/istio.io",
 "cncf/mentoring",
-"prometheus/prometheus",
 "goharbor/website",
 "meshery/docs",
 "cloudnative-pg/cloudnative-pg.github.io",
 "thanos-io/website",
 "open-telemetry/opentelemetry.io",
+"open-telemetry/opentelemetry-operator",
 "kedacore/keda-docs",
 "kubernetes/sig-docs",
 ]
