@@ -6,20 +6,18 @@ Contains repository list and default settings.
 
 # Repository list to monitor
 REPOSITORIES = [
-    "prometheus/prometheus",
-    "prometheus/client_golang", 
+    "open-telemetry/opentelemetry.io",
     "open-telemetry/opentelemetry-collector-contrib",
-    "prometheus/docs",
-    "envoyproxy/gateway",
-    "envoyproxy/envoy",
-    "jaegertracing/jaeger",
-    "jaegertracing/jaeger-operator",
-    "jaegertracing/helm-charts",
-    "jaegertracing/documentation",
-    "jaegertracing/jaeger-ui",
-    "cilium/cilium.io",
-    "cilium/cilium",
-    "cilium/hubble-ui"
+    "open-telemetry/opentelemetry-demo",
+    "open-telemetry/opentelemetry-specification",
+    "open-telemetry/community",
+    "meshery/meshery",
+    "meshery/meshery.io",
+    "layer5io/docs",
+    "kubernetes/website",
+    "kubernetes/community",
+    "kubernetes-sigs/contributor-playground",
+    "kubernetes/enhancements",
 ]
 
 # Default configuration values
